@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+# lab 6 funções
 # 1
 '''def comprimento(saudacao, nome):
   print(f'{saudacao} {nome}!')
